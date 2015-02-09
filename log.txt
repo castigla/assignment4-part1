@@ -1,21 +1,8 @@
-You log goes in this  file.
+Start: Sat, 7 Feb 2015 2:27:18 -0800  
+End: Sat, 7 Feb 2015 10:40:53 -0800 
+Tasks: started and finished content1, login, content2, and logout
 
-Start:1:53 
-End: Wed, 28 Jan 2015 17:42:15 -0800 
-Tasks: added log, qunit, qunit_runner.html, src, and tests - working on functions and variables
-Start:1:53 
-End: Wed, 28 Jan 2015 13:00:53 -0800 
-Tasks: Initial commit
 
-Start:Thursday 12:10  
-End: Thu, 29 Jan 2015 16:11:12 -0800 
-Tasks: updates to src functions and variables js
-Start:Friday 11:20 
-End: Fri, 30 Jan 2015 14:59:25 -0800 
-Tasks: still working on functions and variables, trying to work on objects
-Start:12:30  
-End: Sat, 31 Jan 2015 18:58:46 -0800 
-Tasks: working on functions variables objects. Also beginning part 2
-Start:12:00  
-End: Sun, 1 Feb 2015 17:42:15 -0800 
-Tasks: working on objects and assignment 2
+Start: Sun, 8 Feb 2015 12:34:46 -0800  
+End: Sun, 8 Feb 2015 7:42:27 -0800 
+Tasks: started and finished multtable.php. started and finished loopback.php
